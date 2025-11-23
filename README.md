@@ -1,6 +1,6 @@
 # 📈 Finance Club — Open Project Summer 2024  
 ### **Pairs Trading Algorithm for Financial Markets**  
-📌 **Project ID:** FC24OPS2
+<!-- 📌 **Project ID:** FC24OPS2 -->
 
 ---
 
